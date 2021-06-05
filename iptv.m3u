@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="nasional", RCTI
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
 https://etslive-2-vidio-com.akamaized.net/exp=1622934772~acl=/hls-p/ingest_665_*/*~hmac=53646713f13762ad1a921e2d398adc2876161ef3a62dabd96b57e112ad698b80/hls-p/ingest_665_240p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="news", CNBC INDONESIA
