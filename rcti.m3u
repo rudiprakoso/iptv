@@ -1,10 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="nasional", RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1622937103~acl=/hls-p/ingest_6441_*/*~hmac=caf3bdda9db73ef9bdcce31cad8c7044dcb6667a13db248b9c57de3db35df7df/hls-p/ingest_6441_720p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1622937103~acl=/hls-p/ingest_6441_*/*~hmac=caf3bdda9db73ef9bdcce31cad8c7044dcb6667a13db248b9c57de3db35df7df/hls-p/ingest_6441_480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1622937103~acl=/hls-p/ingest_6441_*/*~hmac=caf3bdda9db73ef9bdcce31cad8c7044dcb6667a13db248b9c57de3db35df7df/hls-p/ingest_6441_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1622937103~acl=/hls-p/ingest_6441_*/*~hmac=caf3bdda9db73ef9bdcce31cad8c7044dcb6667a13db248b9c57de3db35df7df/hls-p/ingest_6441_240p/index.m3u8
